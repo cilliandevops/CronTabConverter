@@ -7,7 +7,15 @@
 - npm i
 - npm run dev
 
+## 界面
 
+![Alt text](image.png)
+
+## 交流
+
+![Alt text](%E5%AE%9A%E5%88%B6%E8%AF%BE%E7%A8%8B.png)
+
+![Alt text](%E4%BA%A4%E6%B5%81%E7%BE%A4.png)
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
